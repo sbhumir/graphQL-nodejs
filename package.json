@@ -1,0 +1,17 @@
+{
+  "name": "graphql-nodejs",
+  "version": "1.0.0",
+  "description": "A simple node.js application that builds and uses queries and mutations using GraphQL",
+  "main": "graphQLBuildServer.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node graphQLBuildServer.js"
+  },
+  "author": "Sirisha Bhumireddy",
+  "license": "ISC"
+}
