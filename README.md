@@ -12,7 +12,7 @@ Run js file
 $ node graphQLBuildServer.js
 ```
 1. Run graphql queries from any IDE like Postman or browse to graphql - http://localhost:<PORT_NUMBER>/graphql  (ex: http://localhost:5000/graphql ) 
-2. Enter below GraphiQL, Query Variables and execute query to get all the records by a specific origin
+2. Enter below GraphiQL Query and Variables and execute query to get all the records by a specific origin
 
 ## graphiQL -- GET data by origin
 ```python
