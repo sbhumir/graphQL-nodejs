@@ -1,1 +1,4 @@
 1. created a new file in my local branch
+2. files are merged with master
+3. make changes in local again
+4. only see line1
